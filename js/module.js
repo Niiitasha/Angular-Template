@@ -1,4 +1,4 @@
-//create your portfolio page module
+//create your page module
 var app = angular.module("myModule", ['ngRoute', 'ngAnimate']);
 
 //configure your routing
